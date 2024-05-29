@@ -1,6 +1,7 @@
 class Celular:
     
     # Esto es un metodo constructor y self sirve para referenciarse asi mismo.
+    # Esta funcion se ejecuta automaticamente cada vez que creamos el objeto.
     def __init__(self, marca, modelo, camara):
         self.marca = marca
         self.modelo = modelo
