@@ -11,4 +11,4 @@ class Celular:
 celular1 = Celular('samsung', 'S23', '48MP')
 
 # Aca podemos preguntar por las propiedades del celular haciendo uso o no de la notacion de punto.
-print(celular1)
+print(celular1) 
